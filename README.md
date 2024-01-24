@@ -1,5 +1,8 @@
 # Data Analytics with Python
 
+![analytics](https://github.com/Matidza/Data-Analytics/assets/125007667/cb602b46-1aa9-44db-b700-65edf0acdf56)
+
+
 ## Overview
 
 Welcome to the world of Data Analytics with Python! This README serves as a comprehensive guide to data analytics, covering fundamental concepts, tools, and techniques using Python. Whether you're a beginner or looking to expand your skills, this project aims to provide hands-on examples and projects to enhance your data analytics capabilities.
